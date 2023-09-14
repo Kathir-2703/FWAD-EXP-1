@@ -47,8 +47,8 @@ Testing the webserver
     httpd.serve_forever()
 
 ## OUTPUT:
-<img width="960" alt="Screenshot 2023-09-09 093120" src="https://github.com/Kathir-2703/FWAD-EXP-1/assets/64436376/9409aac7-d82d-4031-a8bb-863e238d895e">
 <img width="960" alt="Screenshot 2023-09-09 093154" src="https://github.com/Kathir-2703/FWAD-EXP-1/assets/64436376/791a015c-4c90-4a42-82b7-84d49577ef6f">
+<img width="960" alt="Screenshot 2023-09-09 093120" src="https://github.com/Kathir-2703/FWAD-EXP-1/assets/64436376/9409aac7-d82d-4031-a8bb-863e238d895e">
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
